@@ -1,0 +1,9 @@
+ErrorDocument 500 /pages/500.php
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+
+   RewriteRule ^dist/.*$ - [PT]
+
+   RewriteCond %{REQUEST_URI} !index.php
+   RewriteRule    (.*) index.php?req=$1 [L]
+</IfModule>
