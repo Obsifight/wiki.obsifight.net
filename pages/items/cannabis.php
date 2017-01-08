@@ -13,7 +13,7 @@ $title = 'Cannabis';
       <div class="bs-callout bs-callout-danger">
         <h4>Attention !</h4>
         <p>
-          Le <i>cannabis</i> est prohibidé dans la vie courante, il est déconseillé d'en fumer, nous déclarons toute responsabilités en cas de problèmes.
+          Le <i>cannabis</i> est prohibidé dans la vie courante, il est déconseillé d'en fumer, nous déclinons toute responsabilités en cas de problèmes.
         </p>
       </div>
 
